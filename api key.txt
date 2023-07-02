@@ -1,0 +1,1 @@
+https://api.openweathermap.org/data/2.5/weather?q=lagos&appid=2031ec628417c47f4043a4b911fd44f1
